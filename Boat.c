@@ -3,6 +3,7 @@ int main(void){
 
 while(1){
 boat();
+boat2(); //คิตตี้แก้
 }
 
 }
